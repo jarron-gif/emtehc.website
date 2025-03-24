@@ -76,11 +76,11 @@ ul li a:hover{
 .srch{
     font-family: Arial;
     width: 200px;
-    height: 300px;
+    height: 30px;
     background: transparent;
     border: 1px solid #e88a06;
     margin-top: 13px;
-    color: #fff;
+    color: #030000;
     border-right: none;
     font-size: 16px;
     float: left;
